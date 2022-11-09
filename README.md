@@ -1,5 +1,9 @@
 # 1337_pool
 
+<p align="center">
+<img width = "900" src="https://user-images.githubusercontent.com/81354228/200706705-85f4847f-f065-4c4c-803f-48875949e080.png" align="center"/>
+</p>
+
 The "pool" is a 4-week drenching in the coding scene. Very much like a long distance runner, you will take a profound jump.
 Consistently, ends of the week included during a month, you will be dealing with IT projects.
 Simultaneously, you get to know individual candidates, submit and assess projects.
